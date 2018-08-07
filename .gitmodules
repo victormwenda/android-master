@@ -1,0 +1,3 @@
+[submodule "marvik-libs-android"]
+	path = marvik-libs-android
+	url = https://github.com/victormwenda/marvik-libs-android.git
